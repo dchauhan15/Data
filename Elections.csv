@@ -1,0 +1,701 @@
+State,Code,Year,Democrats,Republicans,Others
+Alabama,AL,2012,0,9,0
+Alaska,AK,2012,0,3,0
+Arizona,AZ,2012,0,11,0
+Arkansas,AR,2012,0,6,0
+California,CA,2012,55,0,0
+Colorado,CO,2012,9,0,0
+Connecticut,CT,2012,7,0,0
+Delaware,DE,2012,3,0,0
+Florida,FL,2012,29,0,0
+Georgia,GA,2012,0,16,0
+Hawaii,HI,2012,4,0,0
+Idaho,ID,2012,0,4,0
+Illinois,IL,2012,20,0,0
+Indiana,IN,2012,0,11,0
+Iowa,IA,2012,6,0,0
+Kansas,KS,2012,0,6,0
+Kentucky,KY,2012,0,8,0
+Louisiana,LA,2012,0,8,0
+Maine,ME,2012,4,0,0
+Maryland,MD,2012,10,0,0
+Massachusetts,MA,2012,11,0,0
+Michigan,MI,2012,16,0,0
+Minnesota,MN,2012,10,0,0
+Mississippi,MS,2012,0,6,0
+Missouri,MO,2012,0,10,0
+Montana,MT,2012,0,3,0
+Nebraska,NE,2012,0,5,0
+Nevada,NV,2012,6,0,0
+New Hampshire,NH,2012,4,0,0
+New Jersey,NJ,2012,14,0,0
+New Mexico,NM,2012,5,0,0
+New York,NY,2012,29,0,0
+North Carolina,NC,2012,0,15,0
+North Dakota,ND,2012,0,3,0
+Ohio,OH,2012,18,0,0
+Oklahoma,OK,2012,0,7,0
+Oregon,OR,2012,7,0,0
+Pennsylvania,PA,2012,20,0,0
+Rhode Island,RI,2012,4,0,0
+South Carolina,SC,2012,0,9,0
+South Dakota,SD,2012,0,3,0
+Tennessee,TN,2012,0,11,0
+Texas,TX,2012,0,38,0
+Utah,UT,2012,0,6,0
+Vermont,VT,2012,3,0,0
+Virginia,VA,2012,13,0,0
+Washington,WA,2012,12,0,0
+West Virginia,WV,2012,0,5,0
+Wisconsin,WI,2012,10,0,0
+Wyoming,WY,2012,0,3,0
+Alabama,AL,2008,0,9,0
+Alaska,AK,2008,0,3,0
+Arizona,AZ,2008,0,10,0
+Arkansas,AR,2008,0,6,0
+California,CA,2008,55,0,0
+Colorado,CO,2008,9,0,0
+Connecticut,CT,2008,7,0,0
+Delaware,DE,2008,3,0,0
+Florida,FL,2008,27,0,0
+Georgia,GA,2008,0,15,0
+Hawaii,HI,2008,4,0,0
+Idaho,ID,2008,0,4,0
+Illinois,IL,2008,21,0,0
+Indiana,IN,2008,11,0,0
+Iowa,IA,2008,7,0,0
+Kansas,KS,2008,0,6,0
+Kentucky,KY,2008,0,8,0
+Louisiana,LA,2008,0,9,0
+Maine,ME,2008,4,0,0
+Maryland,MD,2008,10,0,0
+Massachusetts,MA,2008,12,0,0
+Michigan,MI,2008,17,0,0
+Minnesota,MN,2008,10,0,0
+Mississippi,MS,2008,0,6,0
+Missouri,MO,2008,0,11,0
+Montana,MT,2008,0,3,0
+Nebraska,NE,2008,1,4,0
+Nevada,NV,2008,5,0,0
+New Hampshire,NH,2008,4,0,0
+New Jersey,NJ,2008,15,0,0
+New Mexico,NM,2008,5,0,0
+New York,NY,2008,31,0,0
+North Carolina,NC,2008,15,0,0
+North Dakota,ND,2008,0,3,0
+Ohio,OH,2008,20,0,0
+Oklahoma,OK,2008,0,7,0
+Oregon,OR,2008,7,0,0
+Pennsylvania,PA,2008,21,0,0
+Rhode Island,RI,2008,4,0,0
+South Carolina,SC,2008,0,8,0
+South Dakota,SD,2008,0,3,0
+Tennessee,TN,2008,0,11,0
+Texas,TX,2008,0,34,0
+Utah,UT,2008,0,5,0
+Vermont,VT,2008,3,0,0
+Virginia,VA,2008,13,0,0
+Washington,WA,2008,11,0,0
+West Virginia,WV,2008,0,5,0
+Wisconsin,WI,2008,10,0,0
+Wyoming,WY,2008,0,3,0
+Alabama,AL,2004,0,9,0
+Alaska,AK,2004,0,3,0
+Arizona,AZ,2004,0,10,0
+Arkansas,AR,2004,0,6,0
+California,CA,2004,55,0,0
+Colorado,CO,2004,0,9,0
+Connecticut,CT,2004,7,0,0
+Delaware,DE,2004,3,0,0
+Florida,FL,2004,0,27,0
+Georgia,GA,2004,0,15,0
+Hawaii,HI,2004,4,0,0
+Idaho,ID,2004,0,4,0
+Illinois,IL,2004,21,0,0
+Indiana,IN,2004,0,11,0
+Iowa,IA,2004,0,7,0
+Kansas,KS,2004,0,6,0
+Kentucky,KY,2004,0,8,0
+Louisiana,LA,2004,0,9,0
+Maine,ME,2004,4,0,0
+Maryland,MD,2004,10,0,0
+Massachusetts,MA,2004,12,0,0
+Michigan,MI,2004,17,0,0
+Minnesota,MN,2004,9,0,1
+Mississippi,MS,2004,0,6,0
+Missouri,MO,2004,0,11,0
+Montana,MT,2004,0,3,0
+Nebraska,NE,2004,0,5,0
+Nevada,NV,2004,0,5,0
+New Hampshire,NH,2004,4,0,0
+New Jersey,NJ,2004,15,0,0
+New Mexico,NM,2004,0,5,0
+New York,NY,2004,31,0,0
+North Carolina,NC,2004,0,15,0
+North Dakota,ND,2004,0,3,0
+Ohio,OH,2004,0,20,0
+Oklahoma,OK,2004,0,7,0
+Oregon,OR,2004,7,0,0
+Pennsylvania,PA,2004,21,0,0
+Rhode Island,RI,2004,4,0,0
+South Carolina,SC,2004,0,8,0
+South Dakota,SD,2004,0,3,0
+Tennessee,TN,2004,0,11,0
+Texas,TX,2004,0,34,0
+Utah,UT,2004,0,5,0
+Vermont,VT,2004,3,0,0
+Virginia,VA,2004,0,13,0
+Washington,WA,2004,11,0,0
+West Virginia,WV,2004,0,5,0
+Wisconsin,WI,2004,10,0,0
+Wyoming,WY,2004,0,3,0
+Alabama,AL,2000,0,9,0
+Alaska,AK,2000,0,3,0
+Arizona,AZ,2000,0,8,0
+Arkansas,AR,2000,0,6,0
+California,CA,2000,54,0,0
+Colorado,CO,2000,0,8,0
+Connecticut,CT,2000,8,0,0
+Delaware,DE,2000,3,0,0
+Florida,FL,2000,0,25,0
+Georgia,GA,2000,0,13,0
+Hawaii,HI,2000,4,0,0
+Idaho,ID,2000,0,4,0
+Illinois,IL,2000,22,0,0
+Indiana,IN,2000,0,12,0
+Iowa,IA,2000,7,0,0
+Kansas,KS,2000,0,6,0
+Kentucky,KY,2000,0,8,0
+Louisiana,LA,2000,0,9,0
+Maine,ME,2000,4,0,0
+Maryland,MD,2000,10,0,0
+Massachusetts,MA,2000,12,0,0
+Michigan,MI,2000,18,0,0
+Minnesota,MN,2000,10,0,0
+Mississippi,MS,2000,0,7,0
+Missouri,MO,2000,0,11,0
+Montana,MT,2000,0,3,0
+Nebraska,NE,2000,0,5,0
+Nevada,NV,2000,0,4,0
+New Hampshire,NH,2000,0,4,0
+New Jersey,NJ,2000,15,0,0
+New Mexico,NM,2000,5,0,0
+New York,NY,2000,33,0,0
+North Carolina,NC,2000,0,14,0
+North Dakota,ND,2000,0,3,0
+Ohio,OH,2000,0,21,0
+Oklahoma,OK,2000,0,8,0
+Oregon,OR,2000,7,0,0
+Pennsylvania,PA,2000,23,0,0
+Rhode Island,RI,2000,4,0,0
+South Carolina,SC,2000,0,8,0
+South Dakota,SD,2000,0,3,0
+Tennessee,TN,2000,0,11,0
+Texas,TX,2000,0,32,0
+Utah,UT,2000,0,5,0
+Vermont,VT,2000,3,0,0
+Virginia,VA,2000,0,13,0
+Washington,WA,2000,11,0,0
+West Virginia,WV,2000,0,5,0
+Wisconsin,WI,2000,11,0,0
+Wyoming,WY,2000,0,3,0
+Alabama,AL,1996,0,9,0
+Alaska,AK,1996,0,3,0
+Arizona,AZ,1996,8,0,0
+Arkansas,AR,1996,6,0,0
+California,CA,1996,54,0,0
+Colorado,CO,1996,0,8,0
+Connecticut,CT,1996,8,0,0
+Delaware,DE,1996,3,0,0
+Florida,FL,1996,25,0,0
+Georgia,GA,1996,0,13,0
+Hawaii,HI,1996,4,0,0
+Idaho,ID,1996,0,4,0
+Illinois,IL,1996,22,0,0
+Indiana,IN,1996,0,12,0
+Iowa,IA,1996,7,0,0
+Kansas,KS,1996,0,6,0
+Kentucky,KY,1996,8,0,0
+Louisiana,LA,1996,9,0,0
+Maine,ME,1996,4,0,0
+Maryland,MD,1996,10,0,0
+Massachusetts,MA,1996,12,0,0
+Michigan,MI,1996,18,0,0
+Minnesota,MN,1996,10,0,0
+Mississippi,MS,1996,0,7,0
+Missouri,MO,1996,11,0,0
+Montana,MT,1996,0,3,0
+Nebraska,NE,1996,0,5,0
+Nevada,NV,1996,4,0,0
+New Hampshire,NH,1996,4,0,0
+New Jersey,NJ,1996,15,0,0
+New Mexico,NM,1996,5,0,0
+New York,NY,1996,33,0,0
+North Carolina,NC,1996,0,14,0
+North Dakota,ND,1996,0,3,0
+Ohio,OH,1996,21,0,0
+Oklahoma,OK,1996,0,8,0
+Oregon,OR,1996,7,0,0
+Pennsylvania,PA,1996,23,0,0
+Rhode Island,RI,1996,4,0,0
+South Carolina,SC,1996,0,8,0
+South Dakota,SD,1996,0,3,0
+Tennessee,TN,1996,11,0,0
+Texas,TX,1996,0,32,0
+Utah,UT,1996,0,5,0
+Vermont,VT,1996,3,0,0
+Virginia,VA,1996,0,13,0
+Washington,WA,1996,11,0,0
+West Virginia,WV,1996,5,0,0
+Wisconsin,WI,1996,11,0,0
+Wyoming,WY,1996,0,3,0
+Alabama,AL,1992,0,9,0
+Alaska,AK,1992,0,3,0
+Arizona,AZ,1992,0,8,0
+Arkansas,AR,1992,6,0,0
+California,CA,1992,54,0,0
+Colorado,CO,1992,8,0,0
+Connecticut,CT,1992,8,0,0
+Delaware,DE,1992,3,0,0
+Florida,FL,1992,0,25,0
+Georgia,GA,1992,13,0,0
+Hawaii,HI,1992,4,0,0
+Idaho,ID,1992,0,4,0
+Illinois,IL,1992,22,0,0
+Indiana,IN,1992,0,12,0
+Iowa,IA,1992,7,0,0
+Kansas,KS,1992,0,6,0
+Kentucky,KY,1992,8,0,0
+Louisiana,LA,1992,9,0,0
+Maine,ME,1992,4,0,0
+Maryland,MD,1992,10,0,0
+Massachusetts,MA,1992,12,0,0
+Michigan,MI,1992,18,0,0
+Minnesota,MN,1992,10,0,0
+Mississippi,MS,1992,0,7,0
+Missouri,MO,1992,11,0,0
+Montana,MT,1992,3,0,0
+Nebraska,NE,1992,0,5,0
+Nevada,NV,1992,4,0,0
+New Hampshire,NH,1992,4,0,0
+New Jersey,NJ,1992,15,0,0
+New Mexico,NM,1992,5,0,0
+New York,NY,1992,33,0,0
+North Carolina,NC,1992,0,14,0
+North Dakota,ND,1992,0,3,0
+Ohio,OH,1992,21,0,0
+Oklahoma,OK,1992,0,8,0
+Oregon,OR,1992,7,0,0
+Pennsylvania,PA,1992,23,0,0
+Rhode Island,RI,1992,4,0,0
+South Carolina,SC,1992,0,8,0
+South Dakota,SD,1992,0,3,0
+Tennessee,TN,1992,11,0,0
+Texas,TX,1992,0,32,0
+Utah,UT,1992,0,5,0
+Vermont,VT,1992,3,0,0
+Virginia,VA,1992,0,13,0
+Washington,WA,1992,11,0,0
+West Virginia,WV,1992,5,0,0
+Wisconsin,WI,1992,11,0,0
+Wyoming,WY,1992,0,3,0
+Alabama,AL,1988,0,9,0
+Alaska,AK,1988,0,3,0
+Arizona,AZ,1988,0,7,0
+Arkansas,AR,1988,0,6,0
+California,CA,1988,0,47,0
+Colorado,CO,1988,0,8,0
+Connecticut,CT,1988,0,8,0
+Delaware,DE,1988,0,3,0
+Florida,FL,1988,0,21,0
+Georgia,GA,1988,0,12,0
+Hawaii,HI,1988,4,0,0
+Idaho,ID,1988,0,4,0
+Illinois,IL,1988,0,24,0
+Indiana,IN,1988,0,12,0
+Iowa,IA,1988,8,0,0
+Kansas,KS,1988,0,7,0
+Kentucky,KY,1988,0,9,0
+Louisiana,LA,1988,0,10,0
+Maine,ME,1988,0,4,0
+Maryland,MD,1988,0,10,0
+Massachusetts,MA,1988,13,0,0
+Michigan,MI,1988,0,20,0
+Minnesota,MN,1988,10,0,0
+Mississippi,MS,1988,0,7,0
+Missouri,MO,1988,0,11,0
+Montana,MT,1988,0,4,0
+Nebraska,NE,1988,0,5,0
+Nevada,NV,1988,0,4,0
+New Hampshire,NH,1988,0,4,0
+New Jersey,NJ,1988,0,16,0
+New Mexico,NM,1988,0,5,0
+New York,NY,1988,36,0,0
+North Carolina,NC,1988,0,13,0
+North Dakota,ND,1988,0,3,0
+Ohio,OH,1988,0,23,0
+Oklahoma,OK,1988,0,8,0
+Oregon,OR,1988,7,0,0
+Pennsylvania,PA,1988,0,25,0
+Rhode Island,RI,1988,4,0,0
+South Carolina,SC,1988,0,8,0
+South Dakota,SD,1988,0,3,0
+Tennessee,TN,1988,0,11,0
+Texas,TX,1988,0,29,0
+Utah,UT,1988,0,5,0
+Vermont,VT,1988,0,3,0
+Virginia,VA,1988,0,12,0
+Washington,WA,1988,10,0,0
+West Virginia,WV,1988,5,0,1
+Wisconsin,WI,1988,11,0,0
+Wyoming,WY,1988,0,3,0
+Alabama,AL,1984,0,9,0
+Alaska,AK,1984,0,3,0
+Arizona,AZ,1984,0,7,0
+Arkansas,AR,1984,0,6,0
+California,CA,1984,0,47,0
+Colorado,CO,1984,0,8,0
+Connecticut,CT,1984,0,8,0
+Delaware,DE,1984,0,3,0
+Florida,FL,1984,0,21,0
+Georgia,GA,1984,0,12,0
+Hawaii,HI,1984,0,4,0
+Idaho,ID,1984,0,4,0
+Illinois,IL,1984,0,24,0
+Indiana,IN,1984,0,12,0
+Iowa,IA,1984,0,8,0
+Kansas,KS,1984,0,7,0
+Kentucky,KY,1984,0,9,0
+Louisiana,LA,1984,0,10,0
+Maine,ME,1984,0,4,0
+Maryland,MD,1984,0,10,0
+Massachusetts,MA,1984,0,13,0
+Michigan,MI,1984,0,20,0
+Minnesota,MN,1984,10,0,0
+Mississippi,MS,1984,0,7,0
+Missouri,MO,1984,0,11,0
+Montana,MT,1984,0,4,0
+Nebraska,NE,1984,0,5,0
+Nevada,NV,1984,0,4,0
+New Hampshire,NH,1984,0,4,0
+New Jersey,NJ,1984,0,16,0
+New Mexico,NM,1984,0,5,0
+New York,NY,1984,0,36,0
+North Carolina,NC,1984,0,13,0
+North Dakota,ND,1984,0,3,0
+Ohio,OH,1984,0,23,0
+Oklahoma,OK,1984,0,8,0
+Oregon,OR,1984,0,7,0
+Pennsylvania,PA,1984,0,25,0
+Rhode Island,RI,1984,0,4,0
+South Carolina,SC,1984,0,8,0
+South Dakota,SD,1984,0,3,0
+Tennessee,TN,1984,0,11,0
+Texas,TX,1984,0,29,0
+Utah,UT,1984,0,5,0
+Vermont,VT,1984,0,3,0
+Virginia,VA,1984,0,12,0
+Washington,WA,1984,0,10,0
+West Virginia,WV,1984,0,6,0
+Wisconsin,WI,1984,0,11,0
+Wyoming,WY,1984,0,3,0
+Alabama,AL,1980,0,9,0
+Alaska,AK,1980,0,3,0
+Arizona,AZ,1980,0,6,0
+Arkansas,AR,1980,0,6,0
+California,CA,1980,0,45,0
+Colorado,CO,1980,0,7,0
+Connecticut,CT,1980,0,8,0
+Delaware,DE,1980,0,3,0
+Florida,FL,1980,0,17,0
+Georgia,GA,1980,12,0,0
+Hawaii,HI,1980,4,0,0
+Idaho,ID,1980,0,4,0
+Illinois,IL,1980,0,26,0
+Indiana,IN,1980,0,13,0
+Iowa,IA,1980,0,8,0
+Kansas,KS,1980,0,7,0
+Kentucky,KY,1980,0,9,0
+Louisiana,LA,1980,0,10,0
+Maine,ME,1980,0,4,0
+Maryland,MD,1980,10,0,0
+Massachusetts,MA,1980,0,14,0
+Michigan,MI,1980,0,21,0
+Minnesota,MN,1980,10,0,0
+Mississippi,MS,1980,0,7,0
+Missouri,MO,1980,0,12,0
+Montana,MT,1980,0,4,0
+Nebraska,NE,1980,0,5,0
+Nevada,NV,1980,0,3,0
+New Hampshire,NH,1980,0,4,0
+New Jersey,NJ,1980,0,17,0
+New Mexico,NM,1980,0,4,0
+New York,NY,1980,0,41,0
+North Carolina,NC,1980,0,13,0
+North Dakota,ND,1980,0,3,0
+Ohio,OH,1980,0,25,0
+Oklahoma,OK,1980,0,8,0
+Oregon,OR,1980,0,6,0
+Pennsylvania,PA,1980,0,27,0
+Rhode Island,RI,1980,4,0,0
+South Carolina,SC,1980,0,8,0
+South Dakota,SD,1980,0,4,0
+Tennessee,TN,1980,0,10,0
+Texas,TX,1980,0,26,0
+Utah,UT,1980,0,4,0
+Vermont,VT,1980,0,3,0
+Virginia,VA,1980,0,12,0
+Washington,WA,1980,0,9,0
+West Virginia,WV,1980,6,0,0
+Wisconsin,WI,1980,0,11,0
+Wyoming,WY,1980,0,3,0
+Alabama,AL,1976,9,0,0
+Alaska,AK,1976,0,3,0
+Arizona,AZ,1976,0,6,0
+Arkansas,AR,1976,6,0,0
+California,CA,1976,0,45,0
+Colorado,CO,1976,0,7,0
+Connecticut,CT,1976,0,8,0
+Delaware,DE,1976,3,0,0
+Florida,FL,1976,17,0,0
+Georgia,GA,1976,12,0,0
+Hawaii,HI,1976,4,0,0
+Idaho,ID,1976,0,4,0
+Illinois,IL,1976,0,26,0
+Indiana,IN,1976,0,13,0
+Iowa,IA,1976,0,8,0
+Kansas,KS,1976,0,7,0
+Kentucky,KY,1976,9,0,0
+Louisiana,LA,1976,10,0,0
+Maine,ME,1976,0,4,0
+Maryland,MD,1976,10,0,0
+Massachusetts,MA,1976,14,0,0
+Michigan,MI,1976,0,21,0
+Minnesota,MN,1976,10,0,0
+Mississippi,MS,1976,7,0,0
+Missouri,MO,1976,12,0,0
+Montana,MT,1976,0,4,0
+Nebraska,NE,1976,0,5,0
+Nevada,NV,1976,0,3,0
+New Hampshire,NH,1976,0,4,0
+New Jersey,NJ,1976,0,17,0
+New Mexico,NM,1976,0,4,0
+New York,NY,1976,41,0,0
+North Carolina,NC,1976,13,0,0
+North Dakota,ND,1976,0,3,0
+Ohio,OH,1976,25,0,0
+Oklahoma,OK,1976,0,8,0
+Oregon,OR,1976,0,6,0
+Pennsylvania,PA,1976,27,0,0
+Rhode Island,RI,1976,4,0,0
+South Carolina,SC,1976,8,0,0
+South Dakota,SD,1976,0,4,0
+Tennessee,TN,1976,10,0,0
+Texas,TX,1976,26,0,0
+Utah,UT,1976,0,4,0
+Vermont,VT,1976,0,3,0
+Virginia,VA,1976,0,12,0
+Washington,WA,1976,0,8,1
+West Virginia,WV,1976,6,0,0
+Wisconsin,WI,1976,11,0,0
+Wyoming,WY,1976,0,3,0
+Alabama,AL,1972,0,9,0
+Alaska,AK,1972,0,3,0
+Arizona,AZ,1972,0,6,0
+Arkansas,AR,1972,0,6,0
+California,CA,1972,0,45,0
+Colorado,CO,1972,0,7,0
+Connecticut,CT,1972,0,8,0
+Delaware,DE,1972,0,3,0
+Florida,FL,1972,0,17,0
+Georgia,GA,1972,0,12,0
+Hawaii,HI,1972,0,4,0
+Idaho,ID,1972,0,4,0
+Illinois,IL,1972,0,26,0
+Indiana,IN,1972,0,13,0
+Iowa,IA,1972,0,8,0
+Kansas,KS,1972,0,7,0
+Kentucky,KY,1972,0,9,0
+Louisiana,LA,1972,0,10,0
+Maine,ME,1972,0,4,0
+Maryland,MD,1972,0,10,0
+Massachusetts,MA,1972,14,0,0
+Michigan,MI,1972,0,21,0
+Minnesota,MN,1972,0,10,0
+Mississippi,MS,1972,0,7,0
+Missouri,MO,1972,0,12,0
+Montana,MT,1972,0,4,0
+Nebraska,NE,1972,0,5,0
+Nevada,NV,1972,0,3,0
+New Hampshire,NH,1972,0,4,0
+New Jersey,NJ,1972,0,17,0
+New Mexico,NM,1972,0,4,0
+New York,NY,1972,0,41,0
+North Carolina,NC,1972,0,13,0
+North Dakota,ND,1972,0,3,0
+Ohio,OH,1972,0,25,0
+Oklahoma,OK,1972,0,8,0
+Oregon,OR,1972,0,6,0
+Pennsylvania,PA,1972,0,27,0
+Rhode Island,RI,1972,0,4,0
+South Carolina,SC,1972,0,8,0
+South Dakota,SD,1972,0,4,0
+Tennessee,TN,1972,0,10,0
+Texas,TX,1972,0,26,0
+Utah,UT,1972,0,4,0
+Vermont,VT,1972,0,3,0
+Virginia,VA,1972,0,11,1
+Washington,WA,1972,0,9,0
+West Virginia,WV,1972,0,6,0
+Wisconsin,WI,1972,0,11,0
+Wyoming,WY,1972,0,3,0
+Alabama,AL,1968,0,0,10
+Alaska,AK,1968,0,3,0
+Arizona,AZ,1968,0,5,0
+Arkansas,AR,1968,0,0,6
+California,CA,1968,0,40,0
+Colorado,CO,1968,0,6,0
+Connecticut,CT,1968,8,0,0
+Delaware,DE,1968,0,3,0
+Florida,FL,1968,0,14,0
+Georgia,GA,1968,0,0,12
+Hawaii,HI,1968,4,0,0
+Idaho,ID,1968,0,4,0
+Illinois,IL,1968,0,26,0
+Indiana,IN,1968,0,13,0
+Iowa,IA,1968,0,9,0
+Kansas,KS,1968,0,7,0
+Kentucky,KY,1968,0,9,0
+Louisiana,LA,1968,0,0,10
+Maine,ME,1968,4,0,0
+Maryland,MD,1968,10,0,0
+Massachusetts,MA,1968,14,0,0
+Michigan,MI,1968,21,0,0
+Minnesota,MN,1968,10,0,0
+Mississippi,MS,1968,0,0,7
+Missouri,MO,1968,0,12,0
+Montana,MT,1968,0,4,0
+Nebraska,NE,1968,0,5,0
+Nevada,NV,1968,0,3,0
+New Hampshire,NH,1968,0,4,0
+New Jersey,NJ,1968,0,17,0
+New Mexico,NM,1968,0,4,0
+New York,NY,1968,43,0,0
+North Carolina,NC,1968,0,12,1
+North Dakota,ND,1968,0,4,0
+Ohio,OH,1968,0,26,0
+Oklahoma,OK,1968,0,8,0
+Oregon,OR,1968,0,6,0
+Pennsylvania,PA,1968,29,0,0
+Rhode Island,RI,1968,4,0,0
+South Carolina,SC,1968,0,8,0
+South Dakota,SD,1968,0,4,0
+Tennessee,TN,1968,0,11,0
+Texas,TX,1968,25,0,0
+Utah,UT,1968,0,4,0
+Vermont,VT,1968,0,3,0
+Virginia,VA,1968,0,12,0
+Washington,WA,1968,9,0,0
+West Virginia,WV,1968,7,0,0
+Wisconsin,WI,1968,0,12,0
+Wyoming,WY,1968,0,3,0
+Alabama,AL,1964,0,10,0
+Alaska,AK,1964,3,0,0
+Arizona,AZ,1964,0,5,0
+Arkansas,AR,1964,6,0,0
+California,CA,1964,40,0,0
+Colorado,CO,1964,6,0,0
+Connecticut,CT,1964,8,0,0
+Delaware,DE,1964,3,0,0
+Florida,FL,1964,14,0,0
+Georgia,GA,1964,0,12,0
+Hawaii,HI,1964,4,0,0
+Idaho,ID,1964,4,0,0
+Illinois,IL,1964,26,0,0
+Indiana,IN,1964,13,0,0
+Iowa,IA,1964,9,0,0
+Kansas,KS,1964,7,0,0
+Kentucky,KY,1964,9,0,0
+Louisiana,LA,1964,0,10,0
+Maine,ME,1964,4,0,0
+Maryland,MD,1964,10,0,0
+Massachusetts,MA,1964,14,0,0
+Michigan,MI,1964,21,0,0
+Minnesota,MN,1964,10,0,0
+Mississippi,MS,1964,0,7,0
+Missouri,MO,1964,12,0,0
+Montana,MT,1964,4,0,0
+Nebraska,NE,1964,5,0,0
+Nevada,NV,1964,3,0,0
+New Hampshire,NH,1964,4,0,0
+New Jersey,NJ,1964,17,0,0
+New Mexico,NM,1964,4,0,0
+New York,NY,1964,43,0,0
+North Carolina,NC,1964,13,0,0
+North Dakota,ND,1964,4,0,0
+Ohio,OH,1964,26,0,0
+Oklahoma,OK,1964,8,0,0
+Oregon,OR,1964,6,0,0
+Pennsylvania,PA,1964,29,0,0
+Rhode Island,RI,1964,4,0,0
+South Carolina,SC,1964,0,8,0
+South Dakota,SD,1964,4,0,0
+Tennessee,TN,1964,11,0,0
+Texas,TX,1964,25,0,0
+Utah,UT,1964,4,0,0
+Vermont,VT,1964,3,0,0
+Virginia,VA,1964,12,0,0
+Washington,WA,1964,9,0,0
+West Virginia,WV,1964,7,0,0
+Wisconsin,WI,1964,12,0,0
+Wyoming,WY,1964,3,0,0
+Alabama,AL,1960,5,0,6
+Alaska,AK,1960,0,3,0
+Arizona,AZ,1960,0,4,0
+Arkansas,AR,1960,8,0,0
+California,CA,1960,0,32,0
+Colorado,CO,1960,0,6,0
+Connecticut,CT,1960,8,0,0
+Delaware,DE,1960,3,0,0
+Florida,FL,1960,0,10,0
+Georgia,GA,1960,12,0,0
+Hawaii,HI,1960,3,0,0
+Idaho,ID,1960,0,4,0
+Illinois,IL,1960,27,0,0
+Indiana,IN,1960,0,13,0
+Iowa,IA,1960,0,10,0
+Kansas,KS,1960,0,8,0
+Kentucky,KY,1960,0,10,0
+Louisiana,LA,1960,10,0,0
+Maine,ME,1960,0,5,0
+Maryland,MD,1960,9,0,0
+Massachusetts,MA,1960,16,0,0
+Michigan,MI,1960,20,0,0
+Minnesota,MN,1960,11,0,0
+Mississippi,MS,1960,0,0,8
+Missouri,MO,1960,13,0,0
+Montana,MT,1960,0,4,0
+Nebraska,NE,1960,0,6,0
+Nevada,NV,1960,3,0,0
+New Hampshire,NH,1960,0,4,0
+New Jersey,NJ,1960,16,0,0
+New Mexico,NM,1960,4,0,0
+New York,NY,1960,45,0,0
+North Carolina,NC,1960,14,0,0
+North Dakota,ND,1960,0,4,0
+Ohio,OH,1960,0,25,0
+Oklahoma,OK,1960,0,7,1
+Oregon,OR,1960,0,6,0
+Pennsylvania,PA,1960,32,0,0
+Rhode Island,RI,1960,4,0,0
+South Carolina,SC,1960,8,0,0
+South Dakota,SD,1960,0,4,0
+Tennessee,TN,1960,0,11,0
+Texas,TX,1960,24,0,0
+Utah,UT,1960,0,4,0
+Vermont,VT,1960,0,3,0
+Virginia,VA,1960,0,12,0
+Washington,WA,1960,0,9,0
+West Virginia,WV,1960,8,0,0
+Wisconsin,WI,1960,0,12,0
+Wyoming,WY,1960,0,3,0
