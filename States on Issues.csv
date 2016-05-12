@@ -1,0 +1,501 @@
+Code,Issue,Value,Index
+AL,Abortion,Conservative,24
+AL,Drug Policy,Progressive,3
+AL,Education Policy,Conservative,8
+AL,Environmental Issues,Conservative,3
+AL,Gun Control,Conservative,3
+AL,Health Care,Conservative,13
+AL,Immigration Reform,Conservative,10
+AL,LGBT Rights,Conservative,12
+AL,Social Security,Conservative,11
+AL,Tax Reform,Conservative,5
+AK,Abortion,Progressive,4
+AK,Drug Policy,Progressive,14
+AK,Education Policy,Progressive,39
+AK,Environmental Issues,Conservative,10
+AK,Gun Control,Conservative,8
+AK,Health Care,Conservative,11
+AK,Immigration Reform,Conservative,2
+AK,LGBT Rights,Progressive,5
+AK,Social Security,Conservative,17
+AK,Tax Reform,Progressive,16
+AZ,Abortion,Conservative,2
+AZ,Drug Policy,Progressive,11
+AZ,Education Policy,Progressive,4
+AZ,Environmental Issues,Progressive,4
+AZ,Gun Control,Conservative,1
+AZ,Health Care,Conservative,6
+AZ,Immigration Reform,Conservative,7
+AZ,LGBT Rights,Progressive,9
+AZ,Social Security,Conservative,5
+AZ,Tax Reform,Progressive,17
+AR,Abortion,Conservative,11
+AR,Drug Policy,Progressive,8
+AR,Education Policy,Progressive,1
+AR,Environmental Issues,Conservative,9
+AR,Gun Control,Conservative,9
+AR,Health Care,Conservative,23
+AR,Immigration Reform,Conservative,9
+AR,LGBT Rights,No Position,0
+AR,Social Security,Progressive,1
+AR,Tax Reform,Progressive,12
+CA,Abortion,Progressive,6
+CA,Drug Policy,Progressive,12
+CA,Education Policy,Progressive,7
+CA,Environmental Issues,Progressive,17
+CA,Gun Control,Progressive,12
+CA,Health Care,Conservative,3
+CA,Immigration Reform,Progressive,18
+CA,LGBT Rights,Progressive,18
+CA,Social Security,Conservative,3
+CA,Tax Reform,Progressive,5
+CO,Abortion,Progressive,5
+CO,Drug Policy,Progressive,32
+CO,Education Policy,Progressive,21
+CO,Environmental Issues,Progressive,4
+CO,Gun Control,Progressive,4
+CO,Health Care,Progressive,1
+CO,Immigration Reform,Progressive,11
+CO,LGBT Rights,Progressive,10
+CO,Social Security,Conservative,3
+CO,Tax Reform,Progressive,11
+CT,Abortion,Progressive,6
+CT,Drug Policy,Progressive,8
+CT,Education Policy,Progressive,37
+CT,Environmental Issues,Progressive,6
+CT,Gun Control,Progressive,12
+CT,Health Care,Conservative,2
+CT,Immigration Reform,Progressive,18
+CT,LGBT Rights,Progressive,10
+CT,Social Security,No Position,0
+CT,Tax Reform,Progressive,9
+DE,Abortion,No Position,0
+DE,Drug Policy,Progressive,6
+DE,Education Policy,Progressive,8
+DE,Environmental Issues,Progressive,7
+DE,Gun Control,Progressive,13
+DE,Health Care,No Position,0
+DE,Immigration Reform,No Position,0
+DE,LGBT Rights,Progressive,23
+DE,Social Security,Conservative,25
+DE,Tax Reform,Progressive,25
+FL,Abortion,Conservative,5
+FL,Drug Policy,Progressive,11
+FL,Education Policy,Progressive,6
+FL,Environmental Issues,Progressive,7
+FL,Gun Control,Progressive,1
+FL,Health Care,Conservative,12
+FL,Immigration Reform,Progressive,6
+FL,LGBT Rights,Progressive,10
+FL,Social Security,Conservative,6
+FL,Tax Reform,Progressive,13
+GA,Abortion,Conservative,10
+GA,Drug Policy,Progressive,5
+GA,Education Policy,Progressive,15
+GA,Environmental Issues,Conservative,3
+GA,Gun Control,Progressive,4
+GA,Health Care,Conservative,13
+GA,Immigration Reform,Progressive,7
+GA,LGBT Rights,Conservative,7
+GA,Social Security,Conservative,3
+GA,Tax Reform,Conservative,4
+HI,Abortion,Conservative,7
+HI,Drug Policy,Progressive,15
+HI,Education Policy,Progressive,10
+HI,Environmental Issues,Progressive,11
+HI,Gun Control,Progressive,6
+HI,Health Care,Conservative,0
+HI,Immigration Reform,Progressive,16
+HI,LGBT Rights,Progressive,13
+HI,Social Security,Conservative,11
+HI,Tax Reform,Progressive,7
+ID,Abortion,Conservative,7
+ID,Drug Policy,Progressive,10
+ID,Education Policy,Progressive,6
+ID,Environmental Issues,Progressive,9
+ID,Gun Control,Conservative,23
+ID,Health Care,Conservative,3
+ID,Immigration Reform,Conservative,3
+ID,LGBT Rights,Progressive,9
+ID,Social Security,Conservative,24
+ID,Tax Reform,Progressive,16
+IL,Abortion,Conservative,2
+IL,Drug Policy,Progressive,9
+IL,Education Policy,Progressive,31
+IL,Environmental Issues,Progressive,2
+IL,Gun Control,Progressive,6
+IL,Health Care,Conservative,2
+IL,Immigration Reform,Progressive,19
+IL,LGBT Rights,Progressive,10
+IL,Social Security,No Position,0
+IL,Tax Reform,Progressive,10
+IN,Abortion,Conservative,4
+IN,Drug Policy,Progressive,2
+IN,Education Policy,Progressive,18
+IN,Environmental Issues,Conservative,4
+IN,Gun Control,No Position,0
+IN,Health Care,Conservative,8
+IN,Immigration Reform,Progressive,8
+IN,LGBT Rights,Progressive,18
+IN,Social Security,Conservative,4
+IN,Tax Reform,Progressive,2
+IA,Abortion,Conservative,5
+IA,Drug Policy,Progressive,10
+IA,Education Policy,Progressive,16
+IA,Environmental Issues,No Position,0
+IA,Gun Control,Conservative,1
+IA,Health Care,Conservative,3
+IA,Immigration Reform,Progressive,8
+IA,LGBT Rights,Progressive,3
+IA,Social Security,Conservative,6
+IA,Tax Reform,Progressive,18
+KS,Abortion,Conservative,2
+KS,Drug Policy,Progressive,4
+KS,Education Policy,Progressive,17
+KS,Environmental Issues,Conservative,2
+KS,Gun Control,Conservative,3
+KS,Health Care,Progressive,2
+KS,Immigration Reform,Progressive,3
+KS,LGBT Rights,Conservative,1
+KS,Social Security,Conservative,3
+KS,Tax Reform,Progressive,29
+KY,Abortion,Conservative,8
+KY,Drug Policy,Progressive,5
+KY,Education Policy,Progressive,12
+KY,Environmental Issues,Conservative,13
+KY,Gun Control,Conservative,6
+KY,Health Care,Conservative,11
+KY,Immigration Reform,Progressive,1
+KY,LGBT Rights,Progressive,1
+KY,Social Security,Conservative,1
+KY,Tax Reform,Progressive,2
+LA,Abortion,Conservative,31
+LA,Drug Policy,Conservative,1
+LA,Education Policy,Progressive,6
+LA,Environmental Issues,No Position,0
+LA,Gun Control,Progressive,5
+LA,Health Care,Progressive,3
+LA,Immigration Reform,No Position,0
+LA,LGBT Rights,Progressive,2
+LA,Social Security,Conservative,5
+LA,Tax Reform,Progressive,21
+ME,Abortion,Progressive,20
+ME,Drug Policy,Progressive,19
+ME,Education Policy,Progressive,9
+ME,Environmental Issues,Progressive,14
+ME,Gun Control,No Position,0
+ME,Health Care,Progressive,8
+ME,Immigration Reform,Progressive,21
+ME,LGBT Rights,Progressive,18
+ME,Social Security,Conservative,21
+ME,Tax Reform,Progressive,17
+MD,Abortion,Conservative,2
+MD,Drug Policy,Progressive,7
+MD,Education Policy,Progressive,36
+MD,Environmental Issues,Progressive,4
+MD,Gun Control,Progressive,11
+MD,Health Care,Progressive,1
+MD,Immigration Reform,Progressive,12
+MD,LGBT Rights,Progressive,5
+MD,Social Security,Progressive,5
+MD,Tax Reform,Progressive,28
+MA,Abortion,Progressive,16
+MA,Drug Policy,Progressive,13
+MA,Education Policy,Progressive,32
+MA,Environmental Issues,Progressive,18
+MA,Gun Control,Progressive,12
+MA,Health Care,Progressive,6
+MA,Immigration Reform,Progressive,18
+MA,LGBT Rights,Progressive,17
+MA,Social Security,Conservative,4
+MA,Tax Reform,Progressive,9
+MI,Abortion,Conservative,7
+MI,Drug Policy,Progressive,10
+MI,Education Policy,Progressive,46
+MI,Environmental Issues,Conservative,20
+MI,Gun Control,Progressive,6
+MI,Health Care,Conservative,2
+MI,Immigration Reform,Progressive,4
+MI,LGBT Rights,Progressive,5
+MI,Social Security,No Position,0
+MI,Tax Reform,Progressive,16
+MN,Abortion,Progressive,3
+MN,Drug Policy,Progressive,8
+MN,Education Policy,Progressive,40
+MN,Environmental Issues,Progressive,4
+MN,Gun Control,Progressive,4
+MN,Health Care,Progressive,7
+MN,Immigration Reform,Progressive,19
+MN,LGBT Rights,Progressive,9
+MN,Social Security,Progressive,5
+MN,Tax Reform,Progressive,15
+MS,Abortion,Conservative,19
+MS,Drug Policy,Conservative,1
+MS,Education Policy,Progressive,11
+MS,Environmental Issues,Conservative,11
+MS,Gun Control,Conservative,10
+MS,Health Care,Conservative,17
+MS,Immigration Reform,Conservative,5
+MS,LGBT Rights,No Position,0
+MS,Social Security,Conservative,5
+MS,Tax Reform,Progressive,38
+MO,Abortion,Conservative,7
+MO,Drug Policy,Progressive,11
+MO,Education Policy,Progressive,24
+MO,Environmental Issues,Conservative,3
+MO,Gun Control,No Position,0
+MO,Health Care,Conservative,3
+MO,Immigration Reform,Progressive,4
+MO,LGBT Rights,Conservative,2
+MO,Social Security,Progressive,3
+MO,Tax Reform,Progressive,13
+MT,Abortion,No Position,0
+MT,Drug Policy,Progressive,25
+MT,Education Policy,Progressive,26
+MT,Environmental Issues,Progressive,2
+MT,Gun Control,Conservative,6
+MT,Health Care,Conservative,8
+MT,Immigration Reform,Conservative,7
+MT,LGBT Rights,Progressive,11
+MT,Social Security,Progressive,3
+MT,Tax Reform,Conservative,2
+NE,Abortion,Conservative,12
+NE,Drug Policy,Progressive,6
+NE,Education Policy,Progressive,58
+NE,Environmental Issues,Progressive,4
+NE,Gun Control,Progressive,4
+NE,Health Care,Progressive,1
+NE,Immigration Reform,Progressive,10
+NE,LGBT Rights,Progressive,7
+NE,Social Security,Conservative,22
+NE,Tax Reform,Conservative,3
+NV,Abortion,Progressive,5
+NV,Drug Policy,Progressive,17
+NV,Education Policy,Progressive,6
+NV,Environmental Issues,Progressive,2
+NV,Gun Control,Progressive,3
+NV,Health Care,Conservative,11
+NV,Immigration Reform,Conservative,1
+NV,LGBT Rights,Progressive,9
+NV,Social Security,Conservative,17
+NV,Tax Reform,Conservative,3
+NH,Abortion,Progressive,4
+NH,Drug Policy,Progressive,20
+NH,Education Policy,No Position,0
+NH,Environmental Issues,Progressive,13
+NH,Gun Control,Progressive,3
+NH,Health Care,Conservative,1
+NH,Immigration Reform,Conservative,1
+NH,LGBT Rights,Progressive,10
+NH,Social Security,Conservative,3
+NH,Tax Reform,Progressive,2
+NJ,Abortion,Progressive,3
+NJ,Drug Policy,Progressive,3
+NJ,Education Policy,Progressive,19
+NJ,Environmental Issues,Progressive,1
+NJ,Gun Control,Progressive,8
+NJ,Health Care,Conservative,5
+NJ,Immigration Reform,Progressive,15
+NJ,LGBT Rights,Progressive,4
+NJ,Social Security,Progressive,3
+NJ,Tax Reform,Progressive,14
+NM,Abortion,Progressive,8
+NM,Drug Policy,Progressive,12
+NM,Education Policy,Progressive,34
+NM,Environmental Issues,Progressive,4
+NM,Gun Control,Progressive,12
+NM,Health Care,Progressive,2
+NM,Immigration Reform,Progressive,8
+NM,LGBT Rights,Progressive,8
+NM,Social Security,Conservative,4
+NM,Tax Reform,Progressive,18
+NY,Abortion,Progressive,17
+NY,Drug Policy,Progressive,11
+NY,Education Policy,Progressive,8
+NY,Environmental Issues,Progressive,13
+NY,Gun Control,Progressive,12
+NY,Health Care,Conservative,4
+NY,Immigration Reform,Progressive,23
+NY,LGBT Rights,Progressive,21
+NY,Social Security,Conservative,10
+NY,Tax Reform,Progressive,16
+NC,Abortion,Conservative,5
+NC,Drug Policy,Conservative,1
+NC,Education Policy,Progressive,15
+NC,Environmental Issues,No Position,0
+NC,Gun Control,Conservative,1
+NC,Health Care,Conservative,9
+NC,Immigration Reform,Progressive,11
+NC,LGBT Rights,Progressive,30
+NC,Social Security,Conservative,10
+NC,Tax Reform,Progressive,7
+ND,Abortion,Conservative,11
+ND,Drug Policy,Progressive,13
+ND,Education Policy,Progressive,34
+ND,Environmental Issues,Conservative,14
+ND,Gun Control,Progressive,12
+ND,Health Care,Conservative,7
+ND,Immigration Reform,Progressive,7
+ND,LGBT Rights,Progressive,11
+ND,Social Security,Conservative,21
+ND,Tax Reform,Progressive,20
+OH,Abortion,Conservative,3
+OH,Drug Policy,Progressive,5
+OH,Education Policy,Conservative,4
+OH,Environmental Issues,Conservative,10
+OH,Gun Control,No Position,0
+OH,Health Care,Conservative,9
+OH,Immigration Reform,Progressive,7
+OH,LGBT Rights,Progressive,1
+OH,Social Security,Conservative,7
+OH,Tax Reform,Progressive,9
+OK,Abortion,Conservative,9
+OK,Drug Policy,Progressive,2
+OK,Education Policy,Progressive,42
+OK,Environmental Issues,Conservative,6
+OK,Gun Control,Conservative,4
+OK,Health Care,Conservative,14
+OK,Immigration Reform,Conservative,1
+OK,LGBT Rights,Progressive,3
+OK,Social Security,Conservative,17
+OK,Tax Reform,Progressive,43
+OR,Abortion,Progressive,14
+OR,Drug Policy,Progressive,25
+OR,Education Policy,Progressive,23
+OR,Environmental Issues,Progressive,11
+OR,Gun Control,Progressive,6
+OR,Health Care,Progressive,7
+OR,Immigration Reform,Progressive,14
+OR,LGBT Rights,Progressive,12
+OR,Social Security,Progressive,3
+OR,Tax Reform,Progressive,8
+PA,Abortion,No Position,0
+PA,Drug Policy,Progressive,12
+PA,Education Policy,Progressive,16
+PA,Environmental Issues,Conservative,1
+PA,Gun Control,Progressive,9
+PA,Health Care,Conservative,2
+PA,Immigration Reform,Progressive,9
+PA,LGBT Rights,Progressive,9
+PA,Social Security,Conservative,10
+PA,Tax Reform,Progressive,14
+RI,Abortion,Progressive,10
+RI,Drug Policy,Progressive,16
+RI,Education Policy,Progressive,25
+RI,Environmental Issues,Progressive,10
+RI,Gun Control,Progressive,13
+RI,Health Care,Progressive,8
+RI,Immigration Reform,Progressive,15
+RI,LGBT Rights,Progressive,12
+RI,Social Security,Conservative,3
+RI,Tax Reform,Progressive,5
+SC,Abortion,Conservative,14
+SC,Drug Policy,Conservative,3
+SC,Education Policy,Conservative,1
+SC,Environmental Issues,Conservative,1
+SC,Gun Control,Conservative,1
+SC,Health Care,Conservative,19
+SC,Immigration Reform,Conservative,9
+SC,LGBT Rights,Conservative,5
+SC,Social Security,Conservative,8
+SC,Tax Reform,Progressive,9
+SD,Abortion,Conservative,12
+SD,Drug Policy,Progressive,15
+SD,Education Policy,Progressive,26
+SD,Environmental Issues,Conservative,21
+SD,Gun Control,Progressive,1
+SD,Health Care,Progressive,7
+SD,Immigration Reform,Progressive,5
+SD,LGBT Rights,Progressive,17
+SD,Social Security,Conservative,22
+SD,Tax Reform,Conservative,5
+TN,Abortion,Conservative,12
+TN,Drug Policy,Progressive,4
+TN,Education Policy,Progressive,4
+TN,Environmental Issues,Conservative,7
+TN,Gun Control,Progressive,3
+TN,Health Care,Conservative,14
+TN,Immigration Reform,Progressive,4
+TN,LGBT Rights,Conservative,2
+TN,Social Security,Conservative,14
+TN,Tax Reform,Progressive,5
+TX,Abortion,Conservative,6
+TX,Drug Policy,Conservative,2
+TX,Education Policy,Progressive,16
+TX,Environmental Issues,Progressive,3
+TX,Gun Control,No Position,0
+TX,Health Care,Progressive,16
+TX,Immigration Reform,Progressive,3
+TX,LGBT Rights,Progressive,2
+TX,Social Security,Progressive,6
+TX,Tax Reform,No Position,0
+UT,Abortion,Progressive,1
+UT,Drug Policy,Progressive,26
+UT,Education Policy,Progressive,8
+UT,Environmental Issues,Progressive,3
+UT,Gun Control,Conservative,2
+UT,Health Care,Progressive,4
+UT,Immigration Reform,Progressive,7
+UT,LGBT Rights,Conservative,1
+UT,Social Security,Conservative,4
+UT,Tax Reform,Conservative,6
+VT,Abortion,Progressive,25
+VT,Drug Policy,Progressive,44
+VT,Education Policy,Progressive,23
+VT,Environmental Issues,Progressive,35
+VT,Gun Control,Progressive,18
+VT,Health Care,Progressive,23
+VT,Immigration Reform,Progressive,12
+VT,LGBT Rights,Progressive,10
+VT,Social Security,Progressive,19
+VT,Tax Reform,Progressive,6
+VA,Abortion,Conservative,5
+VA,Drug Policy,Progressive,3
+VA,Education Policy,Progressive,39
+VA,Environmental Issues,Conservative,1
+VA,Gun Control,Conservative,3
+VA,Health Care,Conservative,10
+VA,Immigration Reform,Progressive,5
+VA,LGBT Rights,Conservative,1
+VA,Social Security,Conservative,8
+VA,Tax Reform,Progressive,6
+WA,Abortion,Progressive,11
+WA,Drug Policy,Progressive,17
+WA,Education Policy,Progressive,18
+WA,Environmental Issues,Progressive,14
+WA,Gun Control,Progressive,4
+WA,Health Care,No Position,0
+WA,Immigration Reform,Progressive,14
+WA,LGBT Rights,Progressive,13
+WA,Social Security,Progressive,4
+WA,Tax Reform,Progressive,13
+WV,Abortion,Conservative,10
+WV,Drug Policy,Progressive,7
+WV,Education Policy,Conservative,8
+WV,Environmental Issues,Conservative,34
+WV,Gun Control,Conservative,22
+WV,Health Care,Conservative,9
+WV,Immigration Reform,Conservative,9
+WV,LGBT Rights,Conservative,11
+WV,Social Security,Conservative,6
+WV,Tax Reform,Progressive,27
+WI,Abortion,Conservative,2
+WI,Drug Policy,Progressive,10
+WI,Education Policy,No Position,0
+WI,Environmental Issues,Progressive,4
+WI,Gun Control,Progressive,5
+WI,Health Care,Conservative,6
+WI,Immigration Reform,Progressive,3
+WI,LGBT Rights,Progressive,5
+WI,Social Security,Conservative,5
+WI,Tax Reform,Progressive,8
+WY,Abortion,Conservative,6
+WY,Drug Policy,Progressive,23
+WY,Education Policy,Progressive,4
+WY,Environmental Issues,Conservative,4
+WY,Gun Control,Conservative,6
+WY,Health Care,Progressive,4
+WY,Immigration Reform,Conservative,6
+WY,LGBT Rights,Progressive,16
+WY,Social Security,Conservative,16
+WY,Tax Reform,Progressive,12
